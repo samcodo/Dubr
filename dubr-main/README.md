@@ -23,6 +23,3 @@ Dubr will use EventKit to let users choose dates for rides.
 - Implementing Maps API and Calendar API, which we are not very familiar with yet.
 
 - Learning new UX/UI types and features to build a (hopefully) seamless app experience.
-
-## Jon Approval
-- hey team, looks good. Glad you're doing something more sophisticated with Maps. If memory serves, Apple doens't have a lot of built in functions for calculating distance (could be wrong), so StackOverflow with abandon!
